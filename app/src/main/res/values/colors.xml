@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!--白天模式的配色-->
+    <color name="colorPrimary_day">#FFFFFE</color>
+    <color name="colorAccent_day">#303030</color>
+
+    <!--夜间模式-->
+    <color name="colorPrimary_night">#303030</color>
+    <color name="colorAccent_night">#FFFFFFFF</color>
+</resources>
