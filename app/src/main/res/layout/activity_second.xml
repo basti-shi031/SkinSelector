@@ -48,7 +48,7 @@
             android:layout_height="wrap_content"
             android:layout_centerInParent="true"
             android:tag="skin:colorAccent:textColor"
-            android:text="点击进入下一个界面"
+            android:text="测试文字"
             android:textColor="@color/colorAccent"
             android:textSize="36sp" />
 
